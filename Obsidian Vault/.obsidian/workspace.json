@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "e0711c056d257517",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae1dec7948378a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aab4b7e39601975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Letteratura italiana/Indice.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ed94809ad42ad16",
+    "type": "split",
+    "children": [
+      {
+        "id": "7770157d94f1115e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795fea4d57f5b61d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "12b8d74931fc3529",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d596df5828d4db68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.49999618530273
+  },
+  "right": {
+    "id": "79f90bc698c39dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62c3970e4f85f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2158805e9da499a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Letteratura italiana/Indice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "505d1570f53677fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Letteratura italiana/Indice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b74cc20d99448bd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a78803da66a347b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Letteratura italiana/Indice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "7aab4b7e39601975",
+  "lastOpenFiles": [
+    "Letteratura italiana/Alessandro_Manzoni.md",
+    "Letteratura italiana/Italo_Svevo.md",
+    "Storia e Filosofia/Filosofia/Sigmund Freud.md",
+    "Storia e Filosofia/Filosofia/A.Gramsci.md",
+    "Storia e Filosofia/Filosofia/H.Arendt.md",
+    "Letteratura italiana/Gabriele_D'Annunzio.md",
+    "Letteratura italiana/Luigi_Pirandello.md",
+    "Storia e Filosofia/Filosofia/Il positivismo.md",
+    "Storia e Filosofia/Filosofia/Auguste Comte.md",
+    "Storia e Filosofia/Filosofia/Nietzsche.md",
+    "Storia e Filosofia/Filosofia/Karl Marx.md",
+    "Storia e Filosofia/Filosofia/destra e sinistra Hegeliana.md",
+    "Storia e Filosofia/Filosofia/Ludwig Feuerbach.md",
+    "Storia e Filosofia/Filosofia/Soren Kierkegaard.md",
+    "Storia e Filosofia/Filosofia/Arthur Schopenhauer.md",
+    "Storia e Filosofia/Filosofia/G.W. Friedrich Hegel.md",
+    "Storia e Filosofia/Filosofia/Indice.md",
+    "Letteratura italiana/Giovanni_Verga.md",
+    "Letteratura italiana/Giacomo_Leopardi.md",
+    "Letteratura italiana/Indice.md",
+    "Letteratura inglese/Totalitarian regimes.md",
+    "Letteratura inglese/The suffragette movement.md",
+    "Letteratura inglese/Struggle for Irish independance.md",
+    "Letteratura inglese/Late victorian age.md",
+    "Letteratura inglese/The industrial revolution.md",
+    "Letteratura inglese/Indice.md",
+    "Educazione Civica",
+    "Storia e Filosofia",
+    "Biochimica e Scienze della terra/Scienze della terra",
+    "Biochimica e Scienze della terra/Biochimica",
+    "Storia e Filosofia/storia",
+    "Disegno e storia dell'arte",
+    "Letteratura inglese",
+    "Biochimica e Scienze della terra",
+    "Letteratura italiana",
+    "Storia e Filosofia/Filosofia"
+  ]
+}

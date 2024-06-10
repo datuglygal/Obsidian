@@ -1,0 +1,11 @@
+- G.W. Friedrich Hegel
+- Arthur Schopenhauer
+- Soren Kierkegaard
+- Ludwig Feuerbach
+- Karl Marx
+- Auguste Comte
+- Friedrich W. Nietzche
+- Sigmund Freud
+- A.Gramsci
+- H.Arendt
+
