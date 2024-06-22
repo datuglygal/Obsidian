@@ -1,0 +1,5 @@
+- Industrial revolution: <mark style="background: #47C9623D;">Charles Dickens</mark>
+- Late Victorian Age - Aestheticism - Decadentism: <mark style="background: #47C9623D;">Oscar Wilde</mark>
+- Easter rising, WW1- Modernism: <mark style="background: #47C9623D;">James Joice</mark>
+- The suffragette movement: <mark style="background: #47C9623D;">Virginia Woolf</mark>
+- Totalitarian regimes - Literature of committement - Dystopian novel: <mark style="background: #47C9623D;">George Orwell</mark>
