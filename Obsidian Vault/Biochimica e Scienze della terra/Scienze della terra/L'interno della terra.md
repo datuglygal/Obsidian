@@ -1,4 +1,3 @@
-### Appunti sull'Interno della Terra
 
 #### L'Importanza dello Studio delle Onde Sismiche
 - Le onde sismiche forniscono informazioni cruciali sulla struttura interna della Terra.

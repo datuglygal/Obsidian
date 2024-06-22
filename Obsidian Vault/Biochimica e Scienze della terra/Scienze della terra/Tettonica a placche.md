@@ -1,4 +1,3 @@
-### Appunti sulla Tettonica a Placche
 
 #### La Teoria della Tettonica a Placche
 - **Definizione:**
