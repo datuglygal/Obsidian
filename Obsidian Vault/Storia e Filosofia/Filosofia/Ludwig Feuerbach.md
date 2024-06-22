@@ -21,3 +21,11 @@
 - **Influenza su Marx:** Le idee di Feuerbach sulla critica religiosa e sul materialismo storico hanno esercitato una grande influenza su Karl Marx, che integrò molte delle sue concezioni nella sua teoria socio-economica.
 
 - **Importanza per il Pensiero Contemporaneo:** Anche se la sua influenza diretta potrebbe essere diminuita nel corso del tempo, le sue idee continuano ad essere rilevanti per il dibattito filosofico e religioso contemporaneo, specialmente per quanto riguarda la relazione tra religione, umanità e società.
+
+
+
+
+
+In sintesi: Dio non esiste.
+"Dio ha creato gli uomini a sua immagine e somiglianza"-> no, l'uomo ha creato dio a sua immagine e somiglianza
+Più il loro dio diventa forte, più loro diventano deboli

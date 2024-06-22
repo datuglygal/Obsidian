@@ -17,7 +17,7 @@
 
 #### La Dialettica come Legge Logica ed Ontologica
 
-- **La Dialettica:** Hegel sviluppò il concetto di dialettica come il metodo fondamentale della sua filosofia. La dialettica è una legge logica ed ontologica che descrive il movimento dialettico della realtà, in cui tesi, antitesi e sintesi si integrano e si trasformano continuamente.
+- **La Dialettica:** Hegel sviluppò il concetto di dialettica come il metodo fondamentale della sua filosofia. La dialettica è una legge logica ed ontologica che descrive il movimento dialettico della realtà, in cui <mark style="background: #FFF3A3A6;">tesi, antitesi e sintesi</mark> si integrano e si trasformano continuamente.
 
 #### Le Partizioni della Filosofia
 
@@ -29,3 +29,4 @@
 - **Lo Spirito Soggettivo:** Hegel analizza la dimensione individuale dello spirito, includendo temi come la coscienza, l'autocoscienza e la ragione.
 - **Lo Spirito Oggettivo:** Questa sezione tratta delle istituzioni e delle norme che regolano la vita sociale, inclusi temi come il diritto, la moralità e l'eticità.
 - **Lo Spirito Assoluto:** Hegel affronta la dimensione più alta dello spirito, che include l'arte, la religione e la filosofia, e che rappresenta l'autorealizzazione completa dello spirito nella storia.
+

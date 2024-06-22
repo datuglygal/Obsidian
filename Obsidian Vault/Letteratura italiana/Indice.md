@@ -1,8 +1,8 @@
 #### **[Alessandro Manzoni](Alessandro_Manzoni.md)**
 
-###### **[La vita e le opere](Alessandro_Manzoni#Vita_e_Opere)**
+###### **La vita e le opere**
 
-###### **[I grandi temi](Alessandro_Manzoni#Grandi_temi)**
+###### **I grandi temi**
 - la formazione illuministica, 
 - la conversione religiosa, 
 - la partecipazione al movimento romantico, 
