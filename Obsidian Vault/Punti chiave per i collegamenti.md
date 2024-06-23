@@ -2,10 +2,10 @@ Italiano:
 
 #### Manzoni: 
 l'illuminismo, la ragione e la fede. Il ruolo della provvidenza, della storia e della politica
-		opere: 
-			Il 5 maggio: ode a Napoleone
-			Dagli atrii muscosi, dai fori cadenti: la caduta dei longobardi.
-			I promessi sposi.
+	opere: 
+		Il 5 maggio: ode a Napoleone
+		Dagli atrii muscosi, dai fori cadenti: la caduta dei longobardi.
+		I promessi sposi.
 
 #### Leopardi: 
 il romanticismo, l'infelicità dell uomo tra noia e momentanea cessazione di dolore. Pessimismo storico e pessimismo cosmico (la natura indifferente).
@@ -32,10 +32,10 @@ periodo storico caratterizzato da correnti letterarie che partono dal romanticis
 	- Decadentismo: eccessi e trasgressione, raffinatezza, pessimismo, gusto per il macabro.
 	- Estetismo: "art for art's sake" arte come valore autonomo, bellezza, grande cura dello stile, sensualità
 
-La scapigliatura: ribellione contro costrizioni sociali, ricerca della libertà individuale creative e personale.
+La scapigliatura: ribellione contro costrizioni sociali, ricerca della libertà individuale creativa e personale.
 
 Verga:
-	
+	la rappresentazione degli umili 
 
 
 

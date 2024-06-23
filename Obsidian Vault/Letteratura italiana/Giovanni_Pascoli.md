@@ -27,7 +27,8 @@
 ### Lettura e Analisi dei Testi
 
 #### X Agosto
-- "X Agosto" è uno dei componimenti più celebri di Pascoli, dedicato alla morte del fratello e segnato da un profondo senso di perdita e dolore. La poesia esprime il conflitto tra la bellezza della natura e la tragedia della morte.
+- "X Agosto" è uno dei componimenti più celebri di Pascoli, dedicato alla morte del padre e segnato da un profondo senso di perdita e dolore. La poesia esprime il conflitto tra la bellezza della natura e la tragedia della morte.
+-  Pascoli utilizza una rondine come simbolo.
 
 #### L’Assiuolo
 - "L’Assiuolo" è un altro componimento significativo di Pascoli, che evoca il suono lugubre e inquietante dell'assiolo nella notte. La poesia riflette sul tema della solitudine e dell'angoscia dell'esistenza umana, con l'assiolo che rappresenta un simbolo della morte e della tristezza.
